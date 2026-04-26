@@ -1,5 +1,5 @@
 # WestQuotes
-# 🇺🇸
+🇺🇸
 
 WestQuotes is an Android application with widgets featuring daily quotes from Kanye West.
 
@@ -23,7 +23,7 @@ WestQuotes is an **unofficial, fan-made project**. This application and its deve
 
 ---
 
-# 🇵🇱
+🇵🇱
 
 WestQuotes to aplikacja na Androida z codziennymi cytatami Kanyego Westa.
 
