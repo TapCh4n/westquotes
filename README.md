@@ -3,7 +3,7 @@
 
 ---
 
-## English Version
+## 🇺🇸
 
 WestQuotes is an Android application with widgets featuring daily quotes from Kanye West.
 
@@ -24,7 +24,7 @@ If you would like to support this project, please contact me via email for donat
 
 ---
 
-## Wersja Polska
+## 🇵🇱
 
 WestQuotes to aplikacja na Androida z codziennymi cytatami Kanyego Westa.
 
