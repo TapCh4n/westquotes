@@ -1,5 +1,5 @@
 # WestQuotes
-# [Download here](https://tapch4n.github.io/westquotes/)
+
 # 🇺🇸
 
 WestQuotes is an Android application with widgets featuring daily quotes from Kanye West.
@@ -11,7 +11,7 @@ WestQuotes is an Android application with widgets featuring daily quotes from Ka
 - **Themes**: Multiple app themes to choose from.
 
 ### Installation
-1. **Download APK**: Go to the [Releases](https://github.com/KamilKrawczyk/westquotes/releases) section and download `WestQuotes.apk`.
+1. **Download APK**: Go to [here](https://tapch4n.github.io/westquotes/).
 2. **Allow Installation**: If prompted, allow your browser to install apps from unknown sources.
 3. **Play Protect**: If an "Unknown Developer" warning appears, click **More details** and then **Install anyway**.
 
@@ -35,7 +35,7 @@ WestQuotes to aplikacja na Androida z codziennymi cytatami Kanyego Westa.
 - **Motywy**: Wiele motywów wizualnych aplikacji do wyboru.
 
 ### Instalacja
-1. **Pobierz plik APK**: Przejdź do sekcji [Releases](https://github.com/KamilKrawczyk/westquotes/releases) i pobierz `WestQuotes.apk`.
+1. **Pobierz plik APK**: Przejdź [tutaj](https://tapch4n.github.io/westquotes/).
 2. **Zezwól na instalację**: Jeśli system zapyta, zezwól przeglądarce na instalację z nieznanych źródeł.
 3. **Play Protect**: Jeśli zobaczysz komunikat "Nieznany twórca", wybierz **Więcej szczegółów** i kliknij **Zainstaluj mimo to**.
 
