@@ -13,7 +13,7 @@ WestQuotes is an Android app with Kanye West quotes.
 ### Installation
 1. **Download the APK file**: Go to [my page](https://xtapchan.github.io/westquotes/) or [here](https://github.com/xTapChan/westquotes/releases/download/v1.0/WestQuotes.apk).
 2. **Allow Installation**: If prompted, allow your browser to install apps from unknown sources.
-3. **Play Protect**: If an "Unknown Developer" warning appears, click **More details** and then **Install anyway**.
+3. **Play Protect**: If you see this message, select **More details** and click **Install anyway**.
 
 ### Support and Donations
 If you would like to support this project, please contact me via email for donation details:
@@ -37,7 +37,7 @@ WestQuotes to aplikacja na Androida z cytatami Kanyego Westa.
 ### Instalacja
 1. **Pobierz plik APK**: Przejdź do [mojej strony](https://xtapchan.github.io/westquotes/) albo [tutaj](https://github.com/xTapChan/westquotes/releases/download/v1.0/WestQuotes.apk). 
 2. **Zezwól na instalację**: Jeśli system zapyta, zezwól przeglądarce na instalację z nieznanych źródeł.
-3. **Play Protect**: Jeśli zobaczysz komunikat "Nieznany twórca", wybierz **Więcej szczegółów** i kliknij **Zainstaluj mimo to**.
+3. **Play Protect**: Jeśli zobaczysz taki komunikat wybierz **Więcej szczegółów** i kliknij **Zainstaluj mimo to**.
 
 ### Wsparcie i darowizny
 Jeśli chcesz wesprzeć ten projekt, proszę o bezpośredni kontakt mailowy w sprawie darowizn:
